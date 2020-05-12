@@ -215,8 +215,8 @@ p{
 	
 .white_pad img{
 	position: absolute;
-	right:1px;
-	bottom:1px;
+	right:0.1px;
+	bottom:0.1px;
 	}
 	
 .top_left_cont{
