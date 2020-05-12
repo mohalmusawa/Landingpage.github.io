@@ -199,7 +199,7 @@ p{
 	}
 	
 .top_cont_inner{
-	background:url(white_pad.png) no-repeat right bottom;
+	background:url(../img/white_pad.png) no-repeat right bottom;
 	}
 	
 .top_content{
@@ -215,8 +215,8 @@ p{
 	
 .white_pad img{
 	position: absolute;
-	right:0px;
-	bottom:0px;
+	right:1px;
+	bottom:1px;
 	}
 	
 .top_left_cont{
